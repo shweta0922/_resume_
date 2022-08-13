@@ -1,19 +1,19 @@
 # Recognitions
-- cert_name: NIVT J2EE Training
-  organization: National Institute of Vocational Training
-  link: https://res.cloudinary.com/gyan0621/image/upload/v1643472295/Portfolio/java_training-min.pdf
+- cert_name: VECC training
+  organization: Variable Energy Cyclotron Centre
+  link: #
   year: June - July 2018
-  summary: Built Library Management system using Spring , jsp, hibernate & data jpa.
+  summary: Built Guest House Management system using Groovy&Grails , gsp, SQL , HTML.
 
 - cert_name: Web Development Training
   organization: Internshala
-  link: https://res.cloudinary.com/gyan0621/image/upload/v1593543946/Portfolio/Web_Development_Training_Certificate_compressed.pdf
+  link: #
   year: January - February 2018
   summary: Web development training on  HTML & CSS, Bootstrap, SQL and PHP and other tools.
 
 - cert_name: Android Development Training
   organization: Internshala
-  link: https://res.cloudinary.com/gyan0621/image/upload/v1593543947/Portfolio/Android_Training_Certificate_compressed.pdf
+  link: #
   year: January - February 2018
   summary: Android development training using Kotlin
 
@@ -22,9 +22,3 @@
   link: https://www.roboversity.com/verify-certificate/37270011
   year: January 2019
   summary: Automated irrigation system using Arduino platform.
-
-- cert_name: Machine learning workshop.
-  organization: MAKAUT, WB.
-  link: https://res.cloudinary.com/gyan0621/image/upload/v1643472675/Portfolio/macine_workshop.pdf
-  year: March 2019
-  summary: Workshop on various Machine learning algorithms <a target="_blank" rel="noopener noreferrer" href="https://github.com/g0621/machine_learning"><b> check here.</b></a>
