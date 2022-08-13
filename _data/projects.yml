@@ -37,7 +37,7 @@
 - project: Guest House Management System
   short: In-house Guest house managment system
   duration: June 2018
-  #url: "https://github.com/g0621/ProductSuggestion"
+  #url: "#"
   description:  Web Application for various rental purpose and room accommodation, paying guest service, food services
   image_path: "images/SCOG.jpg"
   image_name: "SCOG"
