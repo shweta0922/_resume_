@@ -9,6 +9,73 @@
 # description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
+
+
+- project: Reset Your Career
+  short: Resume Optimizer & Review
+  duration: December 2021
+  url: "https://github.com/shweta0922/arc2021_hackathon"
+  description: Used Github to create a resume website using HTML and CSS.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Help Job seekers better format their Resumes by giving proper in depth feedback.
+    - Enhance JD vs CV Matcher for recruiters for better ranking of resumes.
+    - Use Named Entity Recognition for extracting sections in the resume, checking for heading.
+    - Blogs for building ATS friendly resumes with proper formatting.
+    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/raw/upload/v1660385120/certificates/AlterDime_Reset_Your_Career_1_mtdhdy.pptx"><b> PPT.</b></a> 
+  
+  techs:
+    - Python
+    - HTML
+    - CSS
+    - Javascript
+    - Bootstrap
+    - Jupyter
+
+
+- project: Guest House Management System
+  short: In-house Guest house managment system
+  duration: June 2018
+  #url: "https://github.com/g0621/ProductSuggestion"
+  description:  Web Application for various rental purpose and room accommodation, paying guest service, food services
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - The “GUEST HOUSE” project has been designed keeping in mind both employee and guest of VECC.
+    - The system will cover  booking, accommodation, meals, and accounts details. To help the system smoothly carry out its intended purpose to meet the hotel management needs
+    - Employee working in VECC can simply send the booking request to Guest House Admin and Admin accordingly allocate room to the guest after seeing his/her preferences about the guest house type
+    - The guests should be requisited by some of the VECC Employee then checking in part is handled in security part when the arrives.
+    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/raw/upload/v1660379016/certificates/GuestHouse-Project-Report_-_Shweta_Suman_1_bh54aw.docx"><b> DOC.</b></a> 
+  
+  techs:
+    - Groovy&Grails
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - SQL
+    - iText
+
+- project: Gene Selection
+  short: Select the critical gene responsible to disease from a dataset
+  duration: May 2019
+  url: "https://github.com/shweta0922/geneSelection/"
+  description: Used AI technique(PSO) to find optimized solution 
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Used multiple technique on same dataset to achieve maximum fitness result.
+    - Max fitness value of 32 was achieved using Particle Swarm Optimization technique.
+    - A meta-heuristic algorithm along with k-NN is employed to optimize the search.
+    - Gained max fitness value using PSO(32), Simulated Annealing(30) models, Ant colony optimization(29).
+    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/raw/upload/v1660376591/certificates/Gene_Selection_yyykby.pptx"><b> PPT.</b></a>
+  techs:
+    - Matlab
+    - Artificial Intelligence
+    - numpy
+    - python
+
 - project: Echo Music player
   short: A mobile phone application that allows you to listen to music.
   duration: January 2021
@@ -27,51 +94,10 @@
   techs:
     - Kotlin
 
-- project: Advanced Portfolio
-  short: Portfolio and Blog with social features
-  duration: August 2020
-  url: "https://github.com/g0621/Advanced-Portfolio"
-  description: Used Github to create a resume website using HTML and CSS.
-  image_path: "images/SCOG.jpg"
-  image_name: "SCOG"
-  points:
-    - Explored potential of server side rendering using NEXT.js
-    - Separate pages for adding,updating and timeline display of Experience.
-    - Add update and showcase your projects click <a target="_blank" rel="noopener noreferrer" href="https://gyan-vardhan.herokuapp.com/allprojects"><b>here.</b></a>
-    - Write your Blogs using slate editor, save as draft and publish on your wish.
-  techs:
-    - Next.js
-    - Javascript
-    - node.js
-    - Bootstrap
-    - MongoDB
-    - Slate.js
-    - Auth0
-    - Jwt
-
-- project: Product Suggestion
-  short: Similar product suggestion
-  duration: May 2019
-  url: "https://github.com/g0621/ProductSuggestion"
-  description: Used Github to create a resume website using HTML and CSS.
-  image_path: "images/SCOG.jpg"
-  image_name: "SCOG"
-  points:
-    - started with <a target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/thekenjin/amazonapparelsdata?select=Amazon-clothing-info.csv"><b>Amazon dataset </b></a> having 183K data points.
-    - Data preprocessing involved removing null valued points,similar titles short titles, steaming and removing stop words and special character from title.
-    - Converted data points to <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html"><b> TfIdf </b></a> vectors.
-    - Similarities calculated using <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html"><b> pairwise_distance </b></a> and <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html#sklearn-metrics-pairwise-cosine-similarity"><b> cosine_similarity.</b></a>
-  techs:
-    - Flask
-    - Sklearn
-    - pandas
-    - numpy
-    - Machine learning
-
 - project: News Classifier
   short: Fake News Classifier
   duration: April 2019
-  url: "https://github.com/g0621/FakeNews"
+  url: "https://github.com/shweta0922/FakeNews"
   description: Used Github to create a resume website using HTML and CSS.
   image_path: "images/SCOG.jpg"
   image_name: "SCOG"
@@ -81,7 +107,7 @@
     - Tried TfIdf, Hashing and Count Vectorizers to increase accuracy, TfIdf came on top for all models as dataset was text major.
     - Gained max accuracy using Multi-Nomial NB(88%), Passive-Aggressive(90%) models, Support vector Machine(88%).
     - Used Deep learning models MultiLayered Neural Network with TF (81%), with Keras(93%) and LSTM(94%).
-    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/gyan0621/raw/upload/v1643794228/Portfolio/Fake_News_Detection_technique_DESIGN_LAB.pptx"><b> PPT.</b></a>
+    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/raw/upload/v1660373842/certificates/Fake_News_Detection_technique_DESIGN_LAB_2_yqfc0n.pptx"><b> PPT.</b></a>
   techs:
     - Flask
     - DeepLearning
@@ -90,23 +116,5 @@
     - Keras
     - MachineLearning
 
-- project: In-Touch
-  short: Social Media App
-  duration: May 2018
-  url: "https://github.com/g0621/Android-Projects/tree/master/InTouch"
-  description: Used Github to create a resume website using HTML and CSS.
-  image_path: "images/SCOG.jpg"
-  image_name: "SCOG"
-  points:
-    - Made using Firebase SDK for auth and DB.
-    - Users can send and accept friend requests.
-    - After accepting as friend users can start private chat.
-    - Implemented Typing.. last-seen and online/offline functionalities.
-    - Users can share multimedia in chat.
-  techs:
-    - Android
-    - Firebase
-    - Java
-
 - project: More over Github
-  url: https://github.com/g0621
+  url: https://github.com/shweta0922

@@ -1,14 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
-- name: Arcesium Hackathon 2020
+- name: Arcesium Hackathon 2021
   points:
-    - Reached final round for <a target="_blank" rel="noopener noreferrer" href="https://github.com/g0621/remd"><b>post ranking app.</b></a>.
-
-- name: STG MakeAThon 2020
-  link: https://www.infosys.com/search.html?k=makeathon
-  points:
-    - An Infosys internal STG group Hackathon.
-    - Came 4th among 62 pan india participating teams for Invoice/PO identification cum catching system.
+    - Reached final round for <a target="_blank" rel="noopener noreferrer" href="https://github.com/shweta0922/arc2021_hackathon"><b>resume review app.</b></a>.
 
 - name: Cognizant Master Code 2019
   points:
@@ -17,8 +11,8 @@
 - name: TCS CodeVita 2019
   link: https://www.tcscodevita.com/
   points:
-    - Ranked 127 among 7000+ candidates in round 1 <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/gyan0621/image/upload/v1643482801/Portfolio/first.jpg"><b>here.</b></a>
-    - Ranked under 100 among 500 qualifiers for round 2 <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/gyan0621/image/upload/v1643482801/Portfolio/second.jpg"><b>here.</b></a>
+    - Ranked 401 among 7000+ candidates in round 1 <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/image/upload/v1660380811/certificates/first_q0f0jf.jpg"><b>here.</b></a>
+    - Ranked under 100 among 500 qualifiers for round 2 <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/dtx8xytbw/image/upload/v1660380822/certificates/second_co6knp.jpg"><b>here.</b></a>
 
 - name: Capgemini Tech-Challenge 2019
   organization: Capgemini
