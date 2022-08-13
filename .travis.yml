@@ -1,0 +1,11 @@
+language: ruby
+
+rvm:
+  - 3.0.3
+
+script: bundle exec jekyll build
+
+install: bundle install
+
+notifications:
+  email: false

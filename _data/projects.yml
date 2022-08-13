@@ -1,0 +1,112 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+#- project: jazznotes.io
+#  role: Founder & Primary Developer
+# duration: 2012 &mdash; Present
+# url: "#"
+# description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+# Springfield Community Outreach Group
+- project: Echo Music player
+  short: A mobile phone application that allows you to listen to music.
+  duration: January 2021
+  url: "https://github.com/shweta0922/Echo2"
+  description: Echo is a open source social music player. Developed over Android SDK.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Build over open-source/free services and libraries.
+    - Shows Visualization based on current playing song.
+    - User can now Favorite songs and hear them later in separate favorite fragment. Sort the music list by name or added.
+    - Shake to change music feature.
+    - Push Notification for current playing song.
+    - Build over Kotlin match with industry standards.
+    - UPDATED codebase to support SDK 28
+  techs:
+    - Kotlin
+
+- project: Advanced Portfolio
+  short: Portfolio and Blog with social features
+  duration: August 2020
+  url: "https://github.com/g0621/Advanced-Portfolio"
+  description: Used Github to create a resume website using HTML and CSS.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Explored potential of server side rendering using NEXT.js
+    - Separate pages for adding,updating and timeline display of Experience.
+    - Add update and showcase your projects click <a target="_blank" rel="noopener noreferrer" href="https://gyan-vardhan.herokuapp.com/allprojects"><b>here.</b></a>
+    - Write your Blogs using slate editor, save as draft and publish on your wish.
+  techs:
+    - Next.js
+    - Javascript
+    - node.js
+    - Bootstrap
+    - MongoDB
+    - Slate.js
+    - Auth0
+    - Jwt
+
+- project: Product Suggestion
+  short: Similar product suggestion
+  duration: May 2019
+  url: "https://github.com/g0621/ProductSuggestion"
+  description: Used Github to create a resume website using HTML and CSS.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - started with <a target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/thekenjin/amazonapparelsdata?select=Amazon-clothing-info.csv"><b>Amazon dataset </b></a> having 183K data points.
+    - Data preprocessing involved removing null valued points,similar titles short titles, steaming and removing stop words and special character from title.
+    - Converted data points to <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html"><b> TfIdf </b></a> vectors.
+    - Similarities calculated using <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html"><b> pairwise_distance </b></a> and <a target="_blank" rel="noopener noreferrer" href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html#sklearn-metrics-pairwise-cosine-similarity"><b> cosine_similarity.</b></a>
+  techs:
+    - Flask
+    - Sklearn
+    - pandas
+    - numpy
+    - Machine learning
+
+- project: News Classifier
+  short: Fake News Classifier
+  duration: April 2019
+  url: "https://github.com/g0621/FakeNews"
+  description: Used Github to create a resume website using HTML and CSS.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Trained multiple models on same dataset to achieve maximum accuracy.
+    - Max accuracy of 94% was achieved using LSTM model.
+    - Tried TfIdf, Hashing and Count Vectorizers to increase accuracy, TfIdf came on top for all models as dataset was text major.
+    - Gained max accuracy using Multi-Nomial NB(88%), Passive-Aggressive(90%) models, Support vector Machine(88%).
+    - Used Deep learning models MultiLayered Neural Network with TF (81%), with Keras(93%) and LSTM(94%).
+    - More details in this <a target="_blank" rel="noopener noreferrer" href="https://res.cloudinary.com/gyan0621/raw/upload/v1643794228/Portfolio/Fake_News_Detection_technique_DESIGN_LAB.pptx"><b> PPT.</b></a>
+  techs:
+    - Flask
+    - DeepLearning
+    - Tensorflow
+    - numpy
+    - Keras
+    - MachineLearning
+
+- project: In-Touch
+  short: Social Media App
+  duration: May 2018
+  url: "https://github.com/g0621/Android-Projects/tree/master/InTouch"
+  description: Used Github to create a resume website using HTML and CSS.
+  image_path: "images/SCOG.jpg"
+  image_name: "SCOG"
+  points:
+    - Made using Firebase SDK for auth and DB.
+    - Users can send and accept friend requests.
+    - After accepting as friend users can start private chat.
+    - Implemented Typing.. last-seen and online/offline functionalities.
+    - Users can share multimedia in chat.
+  techs:
+    - Android
+    - Firebase
+    - Java
+
+- project: More over Github
+  url: https://github.com/g0621

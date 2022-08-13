@@ -1,0 +1,78 @@
+# Jobs
+# Arcesium SSE
+- company: Arcesium India Private Limited
+  site : https://www.linkedin.com/company/arcesium/
+  position: Senior Software Engineer
+  location: Bangalore
+  duration: August 2021 &mdash; Present
+  summary:
+    Got early promotion with new project and responsibilities.
+  points:
+    - Worked on obfuscation of sensitive data using custom annotations
+    - Developed new features/requirements with full ownership
+    - Orchestrated pipeline batch jobs using Luigi removing manual intervention.
+    - Handling client requests in devops
+  techs:
+    - Spring
+    - SQL
+    - Mybatis 
+    - Velocity Template
+
+
+# Arcesium SE
+- company: Tata Consultancy Services Private Limited
+  site : https://www.glassdoor.co.in/Overview/Working-at-Arcesium-EI_IE1148900.11,19.htm
+  position: Assistant System Engineer
+  location: Bangalore
+  duration: July 2020 &mdash; July 2021
+  summary:
+    Took ownership of applications, designed and implemented multiple feature requests from clients.
+  points:
+    - Facilitated UI development without mocking data in Linux environment by making a proxy server that provided with Kerberos authentication for requests made from
+      react in linux (where windows AD is missing) launches along with npm scripts seamlessly.Now used by other teams too.
+    - Refactored logics of existing processes decreasing database calls, increased responsiveness of app.
+    - Developed automation tools for creation of unit tests and debugging, reducing manual work by 90%
+    - Designed and implemented services and UI for app which helped MO team in taking reviews of various Brokers from Traders.
+    - Implemented few integration test using Cypress.
+  techs:
+    - Node.js
+    - Java
+    - Junit
+    - Cypress
+    - MS SQL Server
+    - Jenkins
+
+
+# Infosys SES
+- company: Tata Consultancy Services Limited
+  site : https://www.infosys.com/
+  position: Assistant System Engineer Trainee
+  location: Bangalore
+  duration: July 2019  &mdash; July 2020
+  summary:
+    Selected through Codevita(2019), came under top 300 in India. Completed 1 months training with 90% score.
+  points:
+    - Designed and implemented frontend and backend components of iAutomate tool which automatically parses service now requests and executes workflows eliminating need for support personnel for most of the tickets.
+    - Wrote default python workflow scripts for above tool.
+  techs:
+    - Spring Boot
+    - Python
+    - jsp
+    - React
+    - Apache Velocity
+
+# Internshala Intern
+- company: Variable Energy Cyclotron Centre(VECC)
+  site : https://www.vecc.gov.in/
+  position: SDE Intern
+  location: Kolkata
+  duration: June 2018  &mdash; July 2018  
+  summary:
+    Designed and developed Developed a webapp with full ownership 
+  points:
+    - Developed Web application for various rental purpose and room accommodation, paying guest service, food services and other day to day activities.
+  techs:
+    - Groovy&Grails 
+    - MySQL
+    - Itext
+    - MVC
